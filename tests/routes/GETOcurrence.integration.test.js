@@ -48,5 +48,4 @@ describe('GET /api/history', () => {
         expect(response.body).toEqual({"message": "El input debe ser ac o dc"})
     })
         
-
 })
